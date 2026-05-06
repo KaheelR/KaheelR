@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaheel
 
-<!--
-**KaheelR/KaheelR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology / Computer Programming Student (Expected Sept 2026)
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm currently studying Information Technology with a focus on programming and software development.
+I enjoy building structured systems and working on projects that simulate real-world logic and decision-making.
+
+My current focus is on:
+
+* Python development
+* Object-oriented programming
+* System design and architecture
+* Building larger, multi-file applications
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Python (primary)
+* Java (basic)
+* C++ (beginner)
+
+**Concepts**
+
+* Object-Oriented Programming (OOP)
+* Simulation Systems
+* Algorithm Design (probability & weighted logic)
+* State Machines
+* Procedural Generation
+* CLI Application Development
+
+**Tools**
+
+* Git & GitHub
+* Linux (basic)
+
+---
+
+## 📫 Connect With Me
+
+* Email: bioswiss76@gmail.com School Email: rowek4671@student.faytechcc.edu
